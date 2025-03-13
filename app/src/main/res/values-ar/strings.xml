@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">لوحة الطقس</string>
+    <string name="current_weather">الطقس الحالي</string>
+    <string name="forecast">توقعات الطقس لثلاثة أيام</string>
+    <string name="sunny">مشمس ☀️</string>
+    <string name="cloudy">غائم ☁️</string>
+    <string name="rainy">ممطر 🌧️</string>
+    <string name="clear">صافي 🌤️</string>
+    <string name="monday">الإثنين</string>
+    <string name="tuesday">الثلاثاء</string>
+    <string name="wednesday">الأربعاء</string>
+</resources>

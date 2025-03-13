@@ -1,0 +1,53 @@
+# Gradle files
+.gradle/
+*.gradle
+*.gradle.kts
+gradle-app.setting
+
+# Local configuration files
+/local.properties
+*.iml
+.idea/
+
+# Build files
+/build/
+*/build/
+
+# Android Studio/IntelliJ files
+*.log
+/captures/
+/.externalNativeBuild/
+/.cxx/
+/out/
+
+# Generated files
+gen/
+bin/
+obj/
+
+# Keystore files
+*.jks
+*.keystore
+
+# Crash reports
+crashlytics-build.properties
+
+# Temporary files
+*.swp
+*.swo
+*.swn
+*.tmp
+
+# MacOS system files
+.DS_Store
+.idea/workspace.xml
+.idea/libraries/
+.idea/modules.xml
+
+# Kotlin specific
+*.kotlin_metadata
+*.kotlin_module
+
+# Dependency caches
+/.gradle/
+/build/

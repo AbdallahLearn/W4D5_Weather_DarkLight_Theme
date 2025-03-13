@@ -1,0 +1,13 @@
+
+    <resources>
+        <string name="app_name">Weather Dashboard</string>
+        <string name="current_weather">Current Weather</string>
+        <string name="forecast">3-Day Forecast</string>
+        <string name="sunny">Sunny ☀️</string>
+        <string name="cloudy">Cloudy ☁️</string>
+        <string name="rainy">Rainy 🌧️</string>
+        <string name="clear">Clear 🌤️</string>
+        <string name="monday">Monday</string>
+        <string name="tuesday">Tuesday</string>
+        <string name="wednesday">Wednesday</string>
+    </resources>
